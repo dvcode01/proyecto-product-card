@@ -103,7 +103,7 @@ body{
 /* FOOTER */
 .attribution{
     text-align: center;
-    margin: 6rem 0;
+    margin: 4rem;
 }
 .attribution a{
     color: var(--Dark-cyan);
